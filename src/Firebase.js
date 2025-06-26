@@ -4,13 +4,13 @@ import { getAuth,createUserWithEmailAndPassword, signInWithEmailAndPassword, sig
 import { toast } from "react-toastify";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBNL2onWap_sAbz_CFFxSBFvju4yCl-wtA",
-  authDomain: "netflix-clone-7c7a4.firebaseapp.com",
-  projectId: "netflix-clone-7c7a4",
-  storageBucket: "netflix-clone-7c7a4.firebasestorage.app",
-  messagingSenderId: "916463568351",
-  appId: "1:916463568351:web:7a51dbca8377378577306a",
-  measurementId: "G-LPXJ3P9H2K"
+  apiKey: "Enter Your Api Key Here',
+  authDomain: "Enter You auto domain here",
+  projectId: "Enter your Project Id Here",
+  storageBucket: "Enter Your Storage Bucket here",
+  messagingSenderId: "enter your sender id here",
+  appId: "enter your app id here",
+  measurementId: "enter your measurementId here"
 };
 
 
