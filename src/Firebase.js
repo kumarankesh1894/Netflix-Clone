@@ -4,7 +4,7 @@ import { getAuth,createUserWithEmailAndPassword, signInWithEmailAndPassword, sig
 import { toast } from "react-toastify";
 
 const firebaseConfig = {
-  apiKey: "Enter Your Api Key Here',
+  apiKey: "Enter Your Api Key Here",
   authDomain: "Enter You auto domain here",
   projectId: "Enter your Project Id Here",
   storageBucket: "Enter Your Storage Bucket here",
